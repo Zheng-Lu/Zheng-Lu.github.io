@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student studying Artificial Intelligence and Computer Science at the University of Edinburgh. 
+I'm currently an undergraduate student studying Artificial Intelligence and Computer Science in the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk/). 
 
 A data-driven personal website
 ======
